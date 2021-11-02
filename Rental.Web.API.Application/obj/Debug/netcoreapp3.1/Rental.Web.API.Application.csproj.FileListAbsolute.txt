@@ -1,0 +1,12 @@
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\bin\Debug\netcoreapp3.1\Rental.Web.API.Application.deps.json
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\bin\Debug\netcoreapp3.1\Rental.Web.API.Application.dll
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\bin\Debug\netcoreapp3.1\Rental.Web.API.Application.pdb
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.csprojAssemblyReference.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.AssemblyInfoInputs.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.AssemblyInfo.cs
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.dll
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.pdb
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\bin\Debug\netcoreapp3.1\Rental.Web.API.Domain.dll
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\bin\Debug\netcoreapp3.1\Rental.Web.API.Domain.pdb
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\JuanPawloSierra\source\repos\Projects\Rental.Web.API\Rental.Web.API.Application\obj\Debug\netcoreapp3.1\Rental.Web.API.Application.csproj.CopyComplete

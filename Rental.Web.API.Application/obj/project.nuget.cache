@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUuaFmOXMCmP9qwPZ/JJX0shw4R67v2q3Z26wTu1IF12LNFKIVfIHtG3YayXHleJicjCjOs2IZekDUC2PXV6xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JuanPawloSierra\\source\\repos\\Projects\\Rental.Web.API\\Rental.Web.API.Application\\Rental.Web.API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanPawloSierra\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
